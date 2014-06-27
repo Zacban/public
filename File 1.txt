@@ -1,3 +1,7 @@
 Dette er fil 1. Første udgave - 3. udgave
 
 Tilføjelser i anden udgave
+
+Ammended changes
+
+V2.0 changes
